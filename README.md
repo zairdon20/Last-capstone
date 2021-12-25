@@ -23,14 +23,14 @@ Additional description about the project and its features.
 
 ## Demo Video Link
 
-[Watch Demo]()
+[Watch Demo](https://zairdon20.github.io/Last-capstone/)
 
 ## Getting Started
 
 **To get a copy of this repo into your local machine run the following command:**
 
 ```
-git clone https://github.com/zairdon20/Capstone-First.git
+git clone https://github.com/zairdon20/Last-capstone.git
 cd Capstone-First
 in visual studio code you can click the go live button to view it live in the browser.
 ```
