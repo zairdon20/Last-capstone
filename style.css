@@ -528,8 +528,9 @@ time {
     font-size: 19px;
     font-weight: bold;
     word-wrap: break-word;
-    width: 90px;
+    width: 100px;
     margin-top: 37px;
+    margin-bottom: 20px
   }
 
   .allPrograms {

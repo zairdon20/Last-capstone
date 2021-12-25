@@ -23,7 +23,7 @@ Additional description about the project and its features.
 
 ## Demo Video Link
 
-[Watch Demo]()
+[Watch Demo](https://loom.com/share/1b39c89f184e45adbcd831cc25bde40e)
 
 ## Getting Started
 
