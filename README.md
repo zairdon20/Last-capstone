@@ -19,11 +19,11 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://zairdon20.github.io/Last-capstone/)
 
 ## Demo Video Link
 
-[Watch Demo](https://zairdon20.github.io/Last-capstone/)
+[Watch Demo]()
 
 ## Getting Started
 
