@@ -1,64 +1,49 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Module 1 - Capstone Project
 
-> One paragraph statement about the project.
+> Building my first Capstone project to apply the concepts learned in order to enhance my skills in HTML, CSS & JavaScript.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./imgs/Screenshot-desktop.png)
+
+![screenshot](./imgs/Screenshot-mobile.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
 - Major languages
-- Frameworks
-- Technologies used
+- HTML
+- JavaScript
+- CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://zairdon20.github.io/Last-capstone/)
 
+## Demo Video Link
+
+[Watch Demo](https://loom.com/share/1b39c89f184e45adbcd831cc25bde40e)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**To get a copy of this repo into your local machine run the following command:**
 
+```
+git clone https://github.com/zairdon20/Last-capstone.git
+cd Capstone-First
+in visual studio code you can click the go live button to view it live in the browser.
+```
 
-To get a local copy up and running follow these simple example steps.
+## Author
 
-### Prerequisites
+👤 **Josphat**
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@zairdon20](https://github.com/zairdon20)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
 Feel free to check the [issues page](../../issues/).
 
 ## Show your support
@@ -67,9 +52,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Original design idea by
+  [Cindy Shin in Behance](https://www.behance.net/adagio07)
 
 ## 📝 License
 

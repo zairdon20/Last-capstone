@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="./style.css" />
+    
+    <title>Creative commons</title>
+  </head>
+  <body>
+    <header>
+      <nav class="smallMenu">
+        <ul class="darkMenu">
+          <li><a href="#"><img class="facebook" src="./imgs/facebook-logo.png" alt="icone"/></a></li>
+          <li><a href="#"><img class="facebook" src="./imgs/twitter.png" alt="icone"/></a></li>
+          <li><a href="#">English</a></li>
+          <li><a href="#">My Profile</a></li>
+          <li><a href="#">Logout</a></li>
+        </ul>
+      </nav>
+      <nav class="bigMenu">
+        <button class="hamburger" type="button">
+          <span class="menu icon" id="icon">
+            <img onclick="openMenu()" class="showMenu" src="./imgs/menu.png" alt="menu">
+          </span>
+         </button>
+        <ul class="nav-element">
+         <li><a class="logo" href="#"><img src="assets/img/coincity.png" alt="Logo image"/></a></li> 
+          <li><a  href="index.html">Home</a></li>
+          <li><a href="#">Program</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="#">Sponsor</a></li>
+          <li><a href="#">News</a></li>
+          <li><a class="webinar" href="#">Webinar</a></li>
+          <li><img onclick="closeMenu()" class="showMenu close_btn" src="./imgs/close.png" alt=""></li>
+        </ul>
+      </nav>
+      <nav class="desktop_navbar">
+        <img  class="header_logo" src="./imgs/brain.png" alt="brain">
+        <ul class="navbar_lst">
+           <li><a href="index.html">Home</a></li>
+           <li><a href="#">Program</a></li>
+           <li><a href="about.html">About</a></li>
+           <li><a href="#">Sponsor</a></li>
+           <li><a href="#">News</a></li>
+         </ul>
+         <a class="webinar_btn" href="#">Webinar</a>
+      </nav>
+    </header>
+    <section class="containerOne">
+      <div class="imageDiv">
+        <h3>"Hello!Sharing World"</h3>
+        <h1>Creative commons <br> Summit<br>2015</h1>
+        <p>A joyful celebration believing in the value of openness and sharing, creating a postive  change with people from over 80 countries is taking place in october, in Korea.
+        </p>
+        <time datetime="2022-01-11T13:53">2015.10.15(THU) ~ 16(FRI)</time>
+        <h5>@ National Museum of Korea, Art Centre Nabi and more</h5>
+      </div>
+    </section>
+    <section class="programs">
+      <div class="center-container">
+        <h2>Main Program</h2>
+        <hr class="programLine" />
+      </div>
+      <div class="progContainer">
+        <div class="programCards">
+          <i class="fa fa-users fa-2x"></i>
+          <div><h3>Lecture</h3></div>
+          <p>
+            Many national governments around the world are showing themselves to
+            be inefficient
+          </p>
+        </div>
+        <div class="programCards">
+          <i class="fa fa-rocket fa-2x"></i>
+          <div><h3>Exhibition</h3></div>
+          <p>
+            Many national governments around the world are showing themselves to
+            be inefficient
+          </p>
+        </div>
+        <div class="programCards">
+          <i class="fa fa-comments-o fa-2x"></i>
+          <div><h3>Forum</h3></div>
+          <p>
+            Many national governments around the world are showing themselves to
+            be inefficient
+          </p>
+        </div>
+        <div class="programCards">
+          <i class="fa fa-microphone fa-2x"></i>
+          <div><h3>Workshop</h3></div>
+          <p>
+            Many national governments around the world are showing themselves to
+            be inefficient
+          </p>
+        </div>
+        <div class="programCards">
+          <i class="fa fa-graduation-cap fa-2x"></i>
+          <div><h3>Ignite</h3></div>
+          <p>
+            Many national governments around the world are showing themselves to
+            be inefficient
+          </p>
+        </div>
+      </div>
+      <div class="allPrograms">
+        <h3>JOIN THE EVENT</h3>
+        <hr />
+      </div>
+    </section>
+    <section class="speakers">
+      <div class="center-container">
+        <h2>Featured Speakers</h2>
+        <hr class="programLine" />
+      </div>
+      <div class="speakersContainer" id="container">
+        
+      </div>
+    </section>
+    <section class="partners">
+      <div class="partnersContainer">
+        <div class="mainTitle center-container">
+          <h2>Partners</h2>
+          <hr class="programLine" />
+        </div>
+
+        <div class="partnersMain">
+          <div class="partnersItem">
+            <img
+              src="./imgs/intel.png"
+              width="250"
+              height="70"
+              alt="Open AI"
+              class="partner_img"
+            />
+          </div>
+          <div class="partnersItem">
+            <img
+              src="./imgs/united-nations.png"
+              width="280"
+              height="100"
+              alt="Gitlab"
+              class="partner_img"
+            />
+          </div>
+          <div class="partnersItem">
+            <img
+              src="./imgs/twitter.png"
+              width="210"
+              height="70"
+              alt="Ethereum"
+              class="partner_img"
+            />
+          </div>
+          <div class="partnersItem">
+            <img
+              src="./imgs/facebook-logo.png"
+              width="210"
+              height="70"
+              alt="Google"
+              class="partner_img"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer>
+      <div class="footerDiv">
+        <div class="coincityLogo">
+          <a href="#">
+            <img
+              class="logoFooter"
+              src="./imgs/intel.png"
+              alt="coincity Logo"
+            />
+          </a>
+        </div>
+        <div class="patents">
+          Copyright © 2021 All rights reserved | coincity
+        </div>
+      </div>
+    </footer>
+
+		<script src="main.js"></script>
+  </body>
+</html>
